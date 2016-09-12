@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZLAliPay"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "2016.9.12  v15.2最新sdk"
   s.homepage     = "https://github.com/zhoulincome/AliPay"
   s.license      = "MIT"
